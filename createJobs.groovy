@@ -14,7 +14,7 @@ pipelineJob('theme-park-job') {
                     remote {
                         url 'https://github.com/patilmaheshm/ThemeParks.git'
                     }
-                    branch 'master'
+                    branch 'main'
                 }
             }
         }
